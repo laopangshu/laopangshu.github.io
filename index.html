@@ -110,7 +110,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/2023/02/07/hello-world/" data-id="cldveypay0001zwvh2m6v4fk2" data-title="Hello World" class="article-share-link">Share</a>
+      <a data-url="http://example.com/2023/02/07/hello-world/" data-id="cldvkz87i0002okvhdcrw1njb" data-title="Hello World" class="article-share-link">Share</a>
       
       
       
@@ -177,11 +177,19 @@
 <h3 id="3、配置Git与GitHub"><a href="#3、配置Git与GitHub" class="headerlink" title="3、配置Git与GitHub:"></a>3、配置<code>Git</code>与<code>GitHub</code>:</h3><p>此处为全局配置，所以可以在任意位置打开git bash,设置用户名称和邮件地址</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;laopangshu&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;979012796@qq.com&quot;</span></span><br></pre></td></tr></table></figure>
 
-<p>设置完成后为了能够在本地使用<code>git</code>管理<code>github</code>上的项目，需要绑定<code>SSHkey</code>。</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C 979012796@qq.com</span><br><span class="line"># -C后面加你在github的用户名邮箱，这样公钥才会被github认可</span><br><span class="line">less ~/.ssh/id_rsa.pub</span><br><span class="line"># 查看公钥内容稍后加入Github账户的sshkey中,</span><br></pre></td></tr></table></figure>
+<p><del>设置完成后为了能够在本地使用<code>git</code>管理<code>github</code>上的项目，需要绑定<code>SSHkey(未显示故采用其余方案)</code>。</del><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1fw41197Bx/?spm_id_from=333.788&vd_source=ba7843789042ab09571aaf2bec0334a3">其余方案</a></p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C 979012796@qq.com</span><br><span class="line"><span class="comment"># -C后面加你在github的用户名邮箱，这样公钥才会被github认可</span></span><br><span class="line">less ~/.ssh/id_rsa.pub</span><br><span class="line"><span class="comment"># 查看公钥内容稍后加入Github账户的sshkey中,</span></span><br></pre></td></tr></table></figure>
 
+<p>通过其余方案中设置，hexo clean hexo g hexo d便可将电脑文件上传至github，在中的setting中有一pages页，点击查看便可发现，laopangshu.github.io域名即可使用</p>
+<h2 id="五、域名绑定（参考教程–店长）"><a href="#五、域名绑定（参考教程–店长）" class="headerlink" title="五、域名绑定（参考教程–店长）"></a>五、域名绑定（<a target="_blank" rel="noopener" href="https://akilar.top/posts/6ef63e2d/">参考教程–店长</a>）</h2><p>①在<a target="_blank" rel="noopener" href="https://www.aliyun.com/">阿里云</a>或者<a target="_blank" rel="noopener" href="https://cloud.tencent.com/">腾讯云</a>中购买域名，然后接下面几步操作</p>
+<p>首先要获取博客当前默认域名的<code>IP</code>,打开<code>cmd</code>或者<code>powershell</code>，输入</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ping laopangshu.github.io</span><br><span class="line"><span class="comment"># username记得替换成你的用户名</span></span><br></pre></td></tr></table></figure>
 
-
+<p>②然后进行解析</p>
+<p>③再添加a和cname值，a中记录值为第一步显示ip，cname记录值为laopangshu.github.io</p>
+<p>④在source文件下新建一个CNAME，此文件无后缀，并写入内容为laopangshu.top</p>
+<p>⑤配置仓库内容，点击仓库中的setting找到GitHub pages ，在custom domain中填入域名即可</p>
+<p>⑥重新部署，即可通过域名访问博客</p>
 <h1 id="安装问题（hexo篇）"><a href="#安装问题（hexo篇）" class="headerlink" title="安装问题（hexo篇）"></a>安装问题（hexo篇）</h1><h2 id="问题一-npm-install-hexo-cli-g"><a href="#问题一-npm-install-hexo-cli-g" class="headerlink" title="问题一 npm install hexo-cli -g"></a>问题一 npm install hexo-cli -g</h2><p>出现以下问题一</p>
 <p><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_35457469/article/details/102924524">解决方案</a></p>
 <h2 id="问题二-hexo-init"><a href="#问题二-hexo-init" class="headerlink" title="问题二  hexo init"></a>问题二  hexo init</h2><p>出现一下问题二</p>
@@ -191,7 +199,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/2023/02/07/%E5%BB%BA%E7%AB%99history/" data-id="cldveypb80003zwvh2lz9blkh" data-title="建站history" class="article-share-link">Share</a>
+      <a data-url="http://example.com/2023/02/07/%E5%BB%BA%E7%AB%99history/" data-id="cldvkz87a0000okvh5bunchz5" data-title="建站history" class="article-share-link">Share</a>
       
       
       
