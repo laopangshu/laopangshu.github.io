@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老胖叔</title>
+  
+  <subtitle>JZ</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-02-09T20:07:00.041Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>老胖叔</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>建站history</title>
+    <link href="http://example.com/2023/02/07/2023%E5%B9%B41%E6%9C%88/%E5%BB%BA%E7%AB%99history/"/>
+    <id>http://example.com/2023/02/07/2023%E5%B9%B41%E6%9C%88/%E5%BB%BA%E7%AB%99history/</id>
+    <published>2023-02-07T10:55:00.000Z</published>
+    <updated>2023-02-09T20:07:00.041Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;申明&quot;&gt;&lt;a href=&quot;#申明&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
+    
+    
+    <category term="建站" scheme="http://example.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过calibre实现书籍格式的转化</title>
+    <link href="http://example.com/2023/01/25/2023%E5%B9%B41%E6%9C%88/%E9%80%9A%E8%BF%87calibre%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A0%BC%E5%BC%8F%E7%9A%84%E8%BD%AC%E5%8C%96/"/>
+    <id>http://example.com/2023/01/25/2023%E5%B9%B41%E6%9C%88/%E9%80%9A%E8%BF%87calibre%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A0%BC%E5%BC%8F%E7%9A%84%E8%BD%AC%E5%8C%96/</id>
+    <published>2023-01-25T13:42:00.000Z</published>
+    <updated>2023-02-09T15:35:36.180Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://calibre-ebook.com/&quot;&gt;calibre下载地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2023年目标计划</title>
+    <link href="http://example.com/2023/01/24/2023%E5%B9%B41%E6%9C%88/2023%E5%B9%B4%E7%9B%AE%E6%A0%87%E8%AE%A1%E5%88%92/"/>
+    <id>http://example.com/2023/01/24/2023%E5%B9%B41%E6%9C%88/2023%E5%B9%B4%E7%9B%AE%E6%A0%87%E8%AE%A1%E5%88%92/</id>
+    <published>2023-01-24T09:19:00.000Z</published>
+    <updated>2023-02-09T15:39:26.625Z</updated>
+    
+    
+    <summary type="html">welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="规划" scheme="http://example.com/categories/%E8%A7%84%E5%88%92/"/>
+    
+    
+    <category term="2023规划" scheme="http://example.com/tags/2023%E8%A7%84%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>灵魂鸡汤</title>
+    <link href="http://example.com/2023/01/22/2023%E5%B9%B41%E6%9C%88/%E7%81%B5%E9%AD%82%E9%B8%A1%E6%B1%A4/"/>
+    <id>http://example.com/2023/01/22/2023%E5%B9%B41%E6%9C%88/%E7%81%B5%E9%AD%82%E9%B8%A1%E6%B1%A4/</id>
+    <published>2023-01-22T14:11:00.000Z</published>
+    <updated>2023-02-09T15:35:29.037Z</updated>
+    
+    
+    <summary type="html">welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="日常鸡汤" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8%E9%B8%A1%E6%B1%A4/"/>
+    
+    
+    <category term="TED" scheme="http://example.com/tags/TED/"/>
+    
+    <category term="日常鸡汤" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8%E9%B8%A1%E6%B1%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>notion的入门使用</title>
+    <link href="http://example.com/2023/01/18/2023%E5%B9%B41%E6%9C%88/notion%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/"/>
+    <id>http://example.com/2023/01/18/2023%E5%B9%B41%E6%9C%88/notion%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/</id>
+    <published>2023-01-17T18:22:00.000Z</published>
+    <updated>2023-02-09T15:36:10.381Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;notion的三个主要部分&quot;&gt;&lt;a href=&quot;#notion的三个主要部分&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="2023年1月" scheme="http://example.com/tags/2023%E5%B9%B41%E6%9C%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客文章一行两个</title>
+    <link href="http://example.com/2023/01/15/2023%E5%B9%B41%E6%9C%88/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%80%E8%A1%8C%E4%B8%A4%E4%B8%AA/"/>
+    <id>http://example.com/2023/01/15/2023%E5%B9%B41%E6%9C%88/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%80%E8%A1%8C%E4%B8%A4%E4%B8%AA/</id>
+    <published>2023-01-14T23:40:00.000Z</published>
+    <updated>2023-02-09T15:35:16.648Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;butterfly-主题文章双栏布局插件&quot;&gt;&lt;a href=&quot;#butterfly-主题文章双栏布局插件&quot; class=&quot;headerlink&quot; title=&quot;butterfly 主题文章双栏布局插件&quot;&gt;&lt;/a&gt;butterfly</summary>
+        
+      
+    
+    
+    
+    <category term="美化" scheme="http://example.com/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="美化" scheme="http://example.com/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+    <category term="2023年1月" scheme="http://example.com/tags/2023%E5%B9%B41%E6%9C%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CAD画图</title>
+    <link href="http://example.com/2023/01/15/2023%E5%B9%B41%E6%9C%88/CAD%E7%94%BB%E5%9B%BE/"/>
+    <id>http://example.com/2023/01/15/2023%E5%B9%B41%E6%9C%88/CAD%E7%94%BB%E5%9B%BE/</id>
+    <published>2023-01-14T23:01:00.000Z</published>
+    <updated>2023-02-09T15:35:44.908Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;cad画图快捷键&quot;&gt;&lt;a href=&quot;#cad画图快捷键&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="2023年1月" scheme="http://example.com/tags/2023%E5%B9%B41%E6%9C%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装参考博主</title>
+    <link href="http://example.com/2023/01/13/2023%E5%B9%B41%E6%9C%88/%E5%AE%89%E8%A3%85%E5%8F%82%E8%80%83%E5%8D%9A%E4%B8%BB/"/>
+    <id>http://example.com/2023/01/13/2023%E5%B9%B41%E6%9C%88/%E5%AE%89%E8%A3%85%E5%8F%82%E8%80%83%E5%8D%9A%E4%B8%BB/</id>
+    <published>2023-01-13T09:28:00.000Z</published>
+    <updated>2023-02-09T15:35:11.138Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;参考大佬博主&quot;&gt;&lt;a href=&quot;#参考大佬博主&quot; class=&quot;headerlink&quot; title=&quot;参考大佬博主&quot;&gt;&lt;/a&gt;参考大佬博主&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;安知鱼&lt;/strong&gt;&lt;a class=&quot;btn-beautify &quot;</summary>
+        
+      
+    
+    
+    
+    <category term="美化" scheme="http://example.com/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="美化" scheme="http://example.com/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>douban插件安装</title>
+    <link href="http://example.com/2023/01/13/2023%E5%B9%B41%E6%9C%88/douban%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
+    <id>http://example.com/2023/01/13/2023%E5%B9%B41%E6%9C%88/douban%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/</id>
+    <published>2023-01-13T07:33:00.000Z</published>
+    <updated>2023-02-09T15:35:48.684Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;hexo-douban&quot;&gt;&lt;a href=&quot;#hexo-douban&quot; class=&quot;headerlink&quot; title=&quot;hexo-douban&quot;&gt;&lt;/a&gt;hexo-douban&lt;/h1&gt;&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="美化" scheme="http://example.com/categories/%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="美化" scheme="http://example.com/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>b站追番插件安装及命令</title>
+    <link href="http://example.com/2023/01/13/2023%E5%B9%B41%E6%9C%88/b%E7%AB%99%E8%BF%BD%E7%95%AA%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8F%8A%E5%91%BD%E4%BB%A4/"/>
+    <id>http://example.com/2023/01/13/2023%E5%B9%B41%E6%9C%88/b%E7%AB%99%E8%BF%BD%E7%95%AA%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8F%8A%E5%91%BD%E4%BB%A4/</id>
+    <published>2023-01-12T16:16:00.000Z</published>
+    <updated>2023-02-09T15:35:40.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;追番插件安装&quot;&gt;&lt;a href=&quot;#追番插件安装&quot; class=&quot;headerlink&quot; title=&quot;追番插件安装&quot;&gt;&lt;/a&gt;追番插件安装&lt;/h1&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="2023年1月" scheme="http://example.com/categories/2023%E5%B9%B41%E6%9C%88/"/>
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="美化" scheme="http://example.com/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+    <category term="2023年1月" scheme="http://example.com/tags/2023%E5%B9%B41%E6%9C%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站及美化遇到的一些问题</title>
+    <link href="http://example.com/2023/01/12/2023%E5%B9%B41%E6%9C%88/2023-1-12-%E5%BB%BA%E7%AB%99%E5%8F%8A%E7%BE%8E%E5%8C%96%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
+    <id>http://example.com/2023/01/12/2023%E5%B9%B41%E6%9C%88/2023-1-12-%E5%BB%BA%E7%AB%99%E5%8F%8A%E7%BE%8E%E5%8C%96%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</id>
+    <published>2023-01-11T19:43:00.000Z</published>
+    <updated>2023-02-09T15:34:55.279Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;问题一&quot;&gt;&lt;a href=&quot;#问题一&quot; class=&quot;headerlink&quot; title=&quot;问题一&quot;&gt;&lt;/a&gt;问题一&lt;/h1&gt;&lt;h2 id=&quot;live2d-安装问题&quot;&gt;&lt;a href=&quot;#live2d-安装问题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="问题" scheme="http://example.com/tags/%E9%97%AE%E9%A2%98/"/>
+    
+    <category term="建站" scheme="http://example.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+    <category term="美化" scheme="http://example.com/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博主的一个仿真动画</title>
+    <link href="http://example.com/2023/01/12/2023%E5%B9%B41%E6%9C%88/%E5%8D%9A%E4%B8%BB%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BB%BF%E7%9C%9F%E5%8A%A8%E7%94%BB/"/>
+    <id>http://example.com/2023/01/12/2023%E5%B9%B41%E6%9C%88/%E5%8D%9A%E4%B8%BB%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BB%BF%E7%9C%9F%E5%8A%A8%E7%94%BB/</id>
+    <published>2023-01-11T18:36:00.000Z</published>
+    <updated>2023-02-09T15:35:22.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;偏心柱塞泵的仿真动画&quot;&gt;&lt;a href=&quot;#偏心柱塞泵的仿真动画&quot; class=&quot;headerlink&quot; title=&quot;偏心柱塞泵的仿真动画&quot;&gt;&lt;/a&gt;偏心柱塞泵的仿真动画&lt;/h1&gt;&lt;div style=&quot;position: relative; width:</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="仿真" scheme="http://example.com/tags/%E4%BB%BF%E7%9C%9F/"/>
+    
+    <category term="solidworks" scheme="http://example.com/tags/solidworks/"/>
+    
+    <category term="毕业设计" scheme="http://example.com/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网易云文案摘抄</title>
+    <link href="http://example.com/2023/01/12/2023%E5%B9%B41%E6%9C%88/2023-1-12-%E7%BD%91%E6%98%93%E4%BA%91%E6%96%87%E6%A1%88%E6%91%98%E6%8A%84/"/>
+    <id>http://example.com/2023/01/12/2023%E5%B9%B41%E6%9C%88/2023-1-12-%E7%BD%91%E6%98%93%E4%BA%91%E6%96%87%E6%A1%88%E6%91%98%E6%8A%84/</id>
+    <published>2023-01-11T18:02:00.000Z</published>
+    <updated>2023-02-09T15:35:00.218Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt; 今天的事 今天翻篇，&lt;/p&gt;
+&lt;p&gt; 明天还要忙着可爱&lt;/p&gt;
+&lt;p&gt; ——《晴天》&lt;/p&gt;
+&lt;p&gt;我偷偷地碰了你一下，&lt;/p&gt;
+&lt;p&gt; 不料你像蒲公英一样散开，&lt;/p&gt;
+&lt;p&gt; 此后到处都是你的模样。&lt;/p&gt;
+&lt;p&gt; ——《答案》&lt;/p&gt;
+&lt;p&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="闲言闲语" scheme="http://example.com/categories/%E9%97%B2%E8%A8%80%E9%97%B2%E8%AF%AD/"/>
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="emo" scheme="http://example.com/tags/emo/"/>
+    
+  </entry>
+  
+</feed>
