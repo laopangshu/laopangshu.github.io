@@ -6,7 +6,7 @@
   <link href="https://laopangshu.top/atom.xml" rel="self"/>
   
   <link href="https://laopangshu.top/"/>
-  <updated>2023-02-09T20:14:35.258Z</updated>
+  <updated>2023-02-10T10:16:07.866Z</updated>
   <id>https://laopangshu.top/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>建站history</title>
-    <link href="https://laopangshu.top/2023/02/07/2023%E5%B9%B41%E6%9C%88/%E5%BB%BA%E7%AB%99history/"/>
-    <id>https://laopangshu.top/2023/02/07/2023%E5%B9%B41%E6%9C%88/%E5%BB%BA%E7%AB%99history/</id>
+    <link href="https://laopangshu.top/posts/3d4cdbe3.html"/>
+    <id>https://laopangshu.top/posts/3d4cdbe3.html</id>
     <published>2023-02-07T10:55:00.000Z</published>
-    <updated>2023-02-09T20:14:35.258Z</updated>
+    <updated>2023-02-10T10:16:07.866Z</updated>
     
     
       
@@ -38,16 +38,16 @@
     <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
     
     
-    <category term="建站" scheme="https://laopangshu.top/tags/%E5%BB%BA%E7%AB%99/"/>
-    
     <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
+    
+    <category term="建站" scheme="https://laopangshu.top/tags/%E5%BB%BA%E7%AB%99/"/>
     
   </entry>
   
   <entry>
     <title>通过calibre实现书籍格式的转化</title>
-    <link href="https://laopangshu.top/2023/01/25/2023%E5%B9%B41%E6%9C%88/%E9%80%9A%E8%BF%87calibre%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A0%BC%E5%BC%8F%E7%9A%84%E8%BD%AC%E5%8C%96/"/>
-    <id>https://laopangshu.top/2023/01/25/2023%E5%B9%B41%E6%9C%88/%E9%80%9A%E8%BF%87calibre%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A0%BC%E5%BC%8F%E7%9A%84%E8%BD%AC%E5%8C%96/</id>
+    <link href="https://laopangshu.top/posts/5b3097af.html"/>
+    <id>https://laopangshu.top/posts/5b3097af.html</id>
     <published>2023-01-25T13:42:00.000Z</published>
     <updated>2023-02-09T15:35:36.180Z</updated>
     
@@ -72,17 +72,17 @@
   
   <entry>
     <title>2023年目标计划</title>
-    <link href="https://laopangshu.top/2023/01/24/2023%E5%B9%B41%E6%9C%88/2023%E5%B9%B4%E7%9B%AE%E6%A0%87%E8%AE%A1%E5%88%92/"/>
-    <id>https://laopangshu.top/2023/01/24/2023%E5%B9%B41%E6%9C%88/2023%E5%B9%B4%E7%9B%AE%E6%A0%87%E8%AE%A1%E5%88%92/</id>
+    <link href="https://laopangshu.top/posts/5e39080e.html"/>
+    <id>https://laopangshu.top/posts/5e39080e.html</id>
     <published>2023-01-24T09:19:00.000Z</published>
-    <updated>2023-02-09T15:39:26.625Z</updated>
+    <updated>2023-02-10T10:30:27.203Z</updated>
     
     
     <summary type="html">welcome to my blog, enter password to read.</summary>
     
     
     
-    <category term="规划" scheme="https://laopangshu.top/categories/%E8%A7%84%E5%88%92/"/>
+    <category term="生活" scheme="https://laopangshu.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
     <category term="2023规划" scheme="https://laopangshu.top/tags/2023%E8%A7%84%E5%88%92/"/>
@@ -91,17 +91,17 @@
   
   <entry>
     <title>灵魂鸡汤</title>
-    <link href="https://laopangshu.top/2023/01/22/2023%E5%B9%B41%E6%9C%88/%E7%81%B5%E9%AD%82%E9%B8%A1%E6%B1%A4/"/>
-    <id>https://laopangshu.top/2023/01/22/2023%E5%B9%B41%E6%9C%88/%E7%81%B5%E9%AD%82%E9%B8%A1%E6%B1%A4/</id>
+    <link href="https://laopangshu.top/posts/441d9bf9.html"/>
+    <id>https://laopangshu.top/posts/441d9bf9.html</id>
     <published>2023-01-22T14:11:00.000Z</published>
-    <updated>2023-02-09T15:35:29.037Z</updated>
+    <updated>2023-02-10T10:30:25.684Z</updated>
     
     
     <summary type="html">welcome to my blog, enter password to read.</summary>
     
     
     
-    <category term="日常鸡汤" scheme="https://laopangshu.top/categories/%E6%97%A5%E5%B8%B8%E9%B8%A1%E6%B1%A4/"/>
+    <category term="生活" scheme="https://laopangshu.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
     <category term="TED" scheme="https://laopangshu.top/tags/TED/"/>
@@ -112,10 +112,10 @@
   
   <entry>
     <title>notion的入门使用</title>
-    <link href="https://laopangshu.top/2023/01/18/2023%E5%B9%B41%E6%9C%88/notion%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/"/>
-    <id>https://laopangshu.top/2023/01/18/2023%E5%B9%B41%E6%9C%88/notion%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8/</id>
+    <link href="https://laopangshu.top/posts/5f55ec9b.html"/>
+    <id>https://laopangshu.top/posts/5f55ec9b.html</id>
     <published>2023-01-17T18:22:00.000Z</published>
-    <updated>2023-02-09T15:36:10.381Z</updated>
+    <updated>2023-02-10T10:30:17.904Z</updated>
     
     
       
@@ -139,10 +139,10 @@
   
   <entry>
     <title>博客文章一行两个</title>
-    <link href="https://laopangshu.top/2023/01/15/2023%E5%B9%B41%E6%9C%88/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%80%E8%A1%8C%E4%B8%A4%E4%B8%AA/"/>
-    <id>https://laopangshu.top/2023/01/15/2023%E5%B9%B41%E6%9C%88/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%80%E8%A1%8C%E4%B8%A4%E4%B8%AA/</id>
+    <link href="https://laopangshu.top/posts/117bed89.html"/>
+    <id>https://laopangshu.top/posts/117bed89.html</id>
     <published>2023-01-14T23:40:00.000Z</published>
-    <updated>2023-02-09T15:35:16.648Z</updated>
+    <updated>2023-02-10T10:30:29.917Z</updated>
     
     
       
@@ -155,21 +155,19 @@
     
     
     
-    <category term="美化" scheme="https://laopangshu.top/categories/%E7%BE%8E%E5%8C%96/"/>
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
     
     
     <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
-    
-    <category term="2023年1月" scheme="https://laopangshu.top/tags/2023%E5%B9%B41%E6%9C%88/"/>
     
   </entry>
   
   <entry>
     <title>CAD画图</title>
-    <link href="https://laopangshu.top/2023/01/15/2023%E5%B9%B41%E6%9C%88/CAD%E7%94%BB%E5%9B%BE/"/>
-    <id>https://laopangshu.top/2023/01/15/2023%E5%B9%B41%E6%9C%88/CAD%E7%94%BB%E5%9B%BE/</id>
+    <link href="https://laopangshu.top/posts/a0940415.html"/>
+    <id>https://laopangshu.top/posts/a0940415.html</id>
     <published>2023-01-14T23:01:00.000Z</published>
-    <updated>2023-02-09T15:35:44.908Z</updated>
+    <updated>2023-02-10T10:30:23.250Z</updated>
     
     
       
@@ -187,16 +185,14 @@
     
     <category term="学习" scheme="https://laopangshu.top/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="2023年1月" scheme="https://laopangshu.top/tags/2023%E5%B9%B41%E6%9C%88/"/>
-    
   </entry>
   
   <entry>
     <title>安装参考博主</title>
-    <link href="https://laopangshu.top/2023/01/13/2023%E5%B9%B41%E6%9C%88/%E5%AE%89%E8%A3%85%E5%8F%82%E8%80%83%E5%8D%9A%E4%B8%BB/"/>
-    <id>https://laopangshu.top/2023/01/13/2023%E5%B9%B41%E6%9C%88/%E5%AE%89%E8%A3%85%E5%8F%82%E8%80%83%E5%8D%9A%E4%B8%BB/</id>
+    <link href="https://laopangshu.top/posts/6c7dcc2e.html"/>
+    <id>https://laopangshu.top/posts/6c7dcc2e.html</id>
     <published>2023-01-13T09:28:00.000Z</published>
-    <updated>2023-02-09T15:35:11.138Z</updated>
+    <updated>2023-02-10T10:30:32.458Z</updated>
     
     
       
@@ -209,7 +205,7 @@
     
     
     
-    <category term="美化" scheme="https://laopangshu.top/categories/%E7%BE%8E%E5%8C%96/"/>
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
     
     
     <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
@@ -218,10 +214,10 @@
   
   <entry>
     <title>douban插件安装</title>
-    <link href="https://laopangshu.top/2023/01/13/2023%E5%B9%B41%E6%9C%88/douban%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
-    <id>https://laopangshu.top/2023/01/13/2023%E5%B9%B41%E6%9C%88/douban%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/</id>
+    <link href="https://laopangshu.top/posts/1b9582ef.html"/>
+    <id>https://laopangshu.top/posts/1b9582ef.html</id>
     <published>2023-01-13T07:33:00.000Z</published>
-    <updated>2023-02-09T15:35:48.684Z</updated>
+    <updated>2023-02-10T10:30:20.116Z</updated>
     
     
       
@@ -234,7 +230,7 @@
     
     
     
-    <category term="美化" scheme="https://laopangshu.top/categories/%E7%BE%8E%E5%8C%96/"/>
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
     
     
     <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
@@ -243,10 +239,10 @@
   
   <entry>
     <title>b站追番插件安装及命令</title>
-    <link href="https://laopangshu.top/2023/01/13/2023%E5%B9%B41%E6%9C%88/b%E7%AB%99%E8%BF%BD%E7%95%AA%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8F%8A%E5%91%BD%E4%BB%A4/"/>
-    <id>https://laopangshu.top/2023/01/13/2023%E5%B9%B41%E6%9C%88/b%E7%AB%99%E8%BF%BD%E7%95%AA%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E5%8F%8A%E5%91%BD%E4%BB%A4/</id>
+    <link href="https://laopangshu.top/posts/81f775d5.html"/>
+    <id>https://laopangshu.top/posts/81f775d5.html</id>
     <published>2023-01-12T16:16:00.000Z</published>
-    <updated>2023-02-09T15:35:40.172Z</updated>
+    <updated>2023-02-10T10:30:24.550Z</updated>
     
     
       
@@ -259,23 +255,19 @@
     
     
     
-    <category term="2023年1月" scheme="https://laopangshu.top/categories/2023%E5%B9%B41%E6%9C%88/"/>
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
     
-    
-    <category term="学习" scheme="https://laopangshu.top/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
-    
-    <category term="2023年1月" scheme="https://laopangshu.top/tags/2023%E5%B9%B41%E6%9C%88/"/>
     
   </entry>
   
   <entry>
     <title>建站及美化遇到的一些问题</title>
-    <link href="https://laopangshu.top/2023/01/12/2023%E5%B9%B41%E6%9C%88/2023-1-12-%E5%BB%BA%E7%AB%99%E5%8F%8A%E7%BE%8E%E5%8C%96%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
-    <id>https://laopangshu.top/2023/01/12/2023%E5%B9%B41%E6%9C%88/2023-1-12-%E5%BB%BA%E7%AB%99%E5%8F%8A%E7%BE%8E%E5%8C%96%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</id>
+    <link href="https://laopangshu.top/posts/2525007f.html"/>
+    <id>https://laopangshu.top/posts/2525007f.html</id>
     <published>2023-01-11T19:43:00.000Z</published>
-    <updated>2023-02-09T15:34:55.279Z</updated>
+    <updated>2023-02-10T10:30:34.912Z</updated>
     
     
       
@@ -288,23 +280,17 @@
     
     
     
-    <category term="学习" scheme="https://laopangshu.top/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
     
     
-    <category term="学习" scheme="https://laopangshu.top/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="问题" scheme="https://laopangshu.top/tags/%E9%97%AE%E9%A2%98/"/>
-    
-    <category term="建站" scheme="https://laopangshu.top/tags/%E5%BB%BA%E7%AB%99/"/>
-    
-    <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>博主的一个仿真动画</title>
-    <link href="https://laopangshu.top/2023/01/12/2023%E5%B9%B41%E6%9C%88/%E5%8D%9A%E4%B8%BB%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BB%BF%E7%9C%9F%E5%8A%A8%E7%94%BB/"/>
-    <id>https://laopangshu.top/2023/01/12/2023%E5%B9%B41%E6%9C%88/%E5%8D%9A%E4%B8%BB%E7%9A%84%E4%B8%80%E4%B8%AA%E4%BB%BF%E7%9C%9F%E5%8A%A8%E7%94%BB/</id>
+    <link href="https://laopangshu.top/posts/f38f6ea3.html"/>
+    <id>https://laopangshu.top/posts/f38f6ea3.html</id>
     <published>2023-01-11T18:36:00.000Z</published>
     <updated>2023-02-09T15:35:22.128Z</updated>
     
@@ -334,10 +320,10 @@
   
   <entry>
     <title>网易云文案摘抄</title>
-    <link href="https://laopangshu.top/2023/01/12/2023%E5%B9%B41%E6%9C%88/2023-1-12-%E7%BD%91%E6%98%93%E4%BA%91%E6%96%87%E6%A1%88%E6%91%98%E6%8A%84/"/>
-    <id>https://laopangshu.top/2023/01/12/2023%E5%B9%B41%E6%9C%88/2023-1-12-%E7%BD%91%E6%98%93%E4%BA%91%E6%96%87%E6%A1%88%E6%91%98%E6%8A%84/</id>
+    <link href="https://laopangshu.top/posts/fe45eb92.html"/>
+    <id>https://laopangshu.top/posts/fe45eb92.html</id>
     <published>2023-01-11T18:02:00.000Z</published>
-    <updated>2023-02-09T15:35:00.218Z</updated>
+    <updated>2023-02-10T10:30:33.886Z</updated>
     
     
       
@@ -357,7 +343,7 @@
     
     
     
-    <category term="闲言闲语" scheme="https://laopangshu.top/categories/%E9%97%B2%E8%A8%80%E9%97%B2%E8%AF%AD/"/>
+    <category term="生活" scheme="https://laopangshu.top/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
     <category term="生活" scheme="https://laopangshu.top/tags/%E7%94%9F%E6%B4%BB/"/>
