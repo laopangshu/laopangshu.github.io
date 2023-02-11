@@ -6,7 +6,7 @@
   <link href="https://laopangshu.top/atom.xml" rel="self"/>
   
   <link href="https://laopangshu.top/"/>
-  <updated>2023-02-10T10:16:07.866Z</updated>
+  <updated>2023-02-11T18:07:47.334Z</updated>
   <id>https://laopangshu.top/</id>
   
   <author>
@@ -17,11 +17,59 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>爬山记（一）</title>
+    <link href="https://laopangshu.top/posts/d22dd70.html"/>
+    <id>https://laopangshu.top/posts/d22dd70.html</id>
+    <published>2023-02-11T17:56:00.000Z</published>
+    <updated>2023-02-11T18:07:47.334Z</updated>
+    
+    
+    <summary type="html">welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="生活" scheme="https://laopangshu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="爬山" scheme="https://laopangshu.top/tags/%E7%88%AC%E5%B1%B1/"/>
+    
+    <category term="游玩" scheme="https://laopangshu.top/tags/%E6%B8%B8%E7%8E%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二级域名的使用</title>
+    <link href="https://laopangshu.top/posts/697acc66.html"/>
+    <id>https://laopangshu.top/posts/697acc66.html</id>
+    <published>2023-02-10T13:35:00.000Z</published>
+    <updated>2023-02-11T15:42:48.413Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;​	用途：将主站设置为个人主页面，后用二级域名查看博客&lt;/p&gt;
+&lt;p&gt;问题产生：二级域名显示不安全ssl无认证&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>建站history</title>
     <link href="https://laopangshu.top/posts/3d4cdbe3.html"/>
     <id>https://laopangshu.top/posts/3d4cdbe3.html</id>
     <published>2023-02-07T10:55:00.000Z</published>
-    <updated>2023-02-10T10:16:07.866Z</updated>
+    <updated>2023-02-11T16:05:46.630Z</updated>
     
     
       
