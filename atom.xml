@@ -6,7 +6,7 @@
   <link href="https://laopangshu.top/atom.xml" rel="self"/>
   
   <link href="https://laopangshu.top/"/>
-  <updated>2023-02-13T14:47:46.209Z</updated>
+  <updated>2023-02-13T16:50:54.360Z</updated>
   <id>https://laopangshu.top/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>md文件加入本地图片</title>
+    <link href="https://laopangshu.top/posts/29af7751.html"/>
+    <id>https://laopangshu.top/posts/29af7751.html</id>
+    <published>2023-02-13T16:44:00.000Z</published>
+    <updated>2023-02-13T16:50:54.360Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>爬山记（一）</title>
     <link href="https://laopangshu.top/posts/d22dd70.html"/>
     <id>https://laopangshu.top/posts/d22dd70.html</id>
     <published>2023-02-11T17:56:00.000Z</published>
-    <updated>2023-02-13T14:47:46.209Z</updated>
+    <updated>2023-02-13T16:34:36.556Z</updated>
     
     
     <summary type="html">welcome to my blog, enter password to read.</summary>
