@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老胖叔</title>
+  
+  <subtitle>JZ</subtitle>
+  <link href="https://laopangshu.top/atom.xml" rel="self"/>
+  
+  <link href="https://laopangshu.top/"/>
+  <updated>2023-02-17T16:18:14.379Z</updated>
+  <id>https://laopangshu.top/</id>
+  
+  <author>
+    <name>老胖叔</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>project pages实现二级域名网页的使用</title>
+    <link href="https://laopangshu.top/posts/13b9c108.html"/>
+    <id>https://laopangshu.top/posts/13b9c108.html</id>
+    <published>2023-02-15T00:12:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用&quot;&gt;&lt;a href=&quot;#使用&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>md文件加入本地图片</title>
+    <link href="https://laopangshu.top/posts/29af7751.html"/>
+    <id>https://laopangshu.top/posts/29af7751.html</id>
+    <published>2023-02-14T00:44:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>爬山记（一）</title>
+    <link href="https://laopangshu.top/posts/d22dd70.html"/>
+    <id>https://laopangshu.top/posts/d22dd70.html</id>
+    <published>2023-02-12T01:56:00.000Z</published>
+    <updated>2023-02-17T16:18:14.383Z</updated>
+    
+    
+    <summary type="html">welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="生活" scheme="https://laopangshu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="爬山" scheme="https://laopangshu.top/tags/%E7%88%AC%E5%B1%B1/"/>
+    
+    <category term="游玩" scheme="https://laopangshu.top/tags/%E6%B8%B8%E7%8E%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二级域名的使用</title>
+    <link href="https://laopangshu.top/posts/697acc66.html"/>
+    <id>https://laopangshu.top/posts/697acc66.html</id>
+    <published>2023-02-10T21:35:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;​	用途：将主站设置为个人主页面，后用二级域名查看博客&lt;/p&gt;
+&lt;p&gt;问题产生：二级域名显示不安全ssl无认证&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站history</title>
+    <link href="https://laopangshu.top/posts/3d4cdbe3.html"/>
+    <id>https://laopangshu.top/posts/3d4cdbe3.html</id>
+    <published>2023-02-07T18:55:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;申明&quot;&gt;&lt;a href=&quot;#申明&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
+    
+    <category term="建站" scheme="https://laopangshu.top/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>通过calibre实现书籍格式的转化</title>
+    <link href="https://laopangshu.top/posts/5b3097af.html"/>
+    <id>https://laopangshu.top/posts/5b3097af.html</id>
+    <published>2023-01-25T21:42:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://calibre-ebook.com/&quot;&gt;calibre下载地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://laopangshu.top/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="工具" scheme="https://laopangshu.top/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2023年目标计划</title>
+    <link href="https://laopangshu.top/posts/5e39080e.html"/>
+    <id>https://laopangshu.top/posts/5e39080e.html</id>
+    <published>2023-01-24T17:19:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+    <summary type="html">welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="生活" scheme="https://laopangshu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="2023规划" scheme="https://laopangshu.top/tags/2023%E8%A7%84%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>灵魂鸡汤</title>
+    <link href="https://laopangshu.top/posts/441d9bf9.html"/>
+    <id>https://laopangshu.top/posts/441d9bf9.html</id>
+    <published>2023-01-22T22:11:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+    <summary type="html">welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="生活" scheme="https://laopangshu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="TED" scheme="https://laopangshu.top/tags/TED/"/>
+    
+    <category term="日常鸡汤" scheme="https://laopangshu.top/tags/%E6%97%A5%E5%B8%B8%E9%B8%A1%E6%B1%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>notion的入门使用</title>
+    <link href="https://laopangshu.top/posts/5f55ec9b.html"/>
+    <id>https://laopangshu.top/posts/5f55ec9b.html</id>
+    <published>2023-01-18T02:22:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;notion的三个主要部分&quot;&gt;&lt;a href=&quot;#notion的三个主要部分&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://laopangshu.top/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="https://laopangshu.top/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="2023年1月" scheme="https://laopangshu.top/tags/2023%E5%B9%B41%E6%9C%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客文章一行两个</title>
+    <link href="https://laopangshu.top/posts/117bed89.html"/>
+    <id>https://laopangshu.top/posts/117bed89.html</id>
+    <published>2023-01-15T07:40:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;butterfly-主题文章双栏布局插件&quot;&gt;&lt;a href=&quot;#butterfly-主题文章双栏布局插件&quot; class=&quot;headerlink&quot; title=&quot;butterfly 主题文章双栏布局插件&quot;&gt;&lt;/a&gt;butterfly</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CAD画图</title>
+    <link href="https://laopangshu.top/posts/a0940415.html"/>
+    <id>https://laopangshu.top/posts/a0940415.html</id>
+    <published>2023-01-15T07:01:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;cad画图快捷键&quot;&gt;&lt;a href=&quot;#cad画图快捷键&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://laopangshu.top/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="https://laopangshu.top/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装参考博主</title>
+    <link href="https://laopangshu.top/posts/6c7dcc2e.html"/>
+    <id>https://laopangshu.top/posts/6c7dcc2e.html</id>
+    <published>2023-01-13T17:28:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;参考大佬博主&quot;&gt;&lt;a href=&quot;#参考大佬博主&quot; class=&quot;headerlink&quot; title=&quot;参考大佬博主&quot;&gt;&lt;/a&gt;参考大佬博主&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;安知鱼&lt;/strong&gt;{% btn &#39;https://anzhiy.cn&#39;,前往</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>douban插件安装</title>
+    <link href="https://laopangshu.top/posts/1b9582ef.html"/>
+    <id>https://laopangshu.top/posts/1b9582ef.html</id>
+    <published>2023-01-13T15:33:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;hexo-douban&quot;&gt;&lt;a href=&quot;#hexo-douban&quot; class=&quot;headerlink&quot; title=&quot;hexo-douban&quot;&gt;&lt;/a&gt;hexo-douban&lt;/h1&gt;&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>b站追番插件安装及命令</title>
+    <link href="https://laopangshu.top/posts/81f775d5.html"/>
+    <id>https://laopangshu.top/posts/81f775d5.html</id>
+    <published>2023-01-13T00:16:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;追番插件安装&quot;&gt;&lt;a href=&quot;#追番插件安装&quot; class=&quot;headerlink&quot; title=&quot;追番插件安装&quot;&gt;&lt;/a&gt;追番插件安装&lt;/h1&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="美化" scheme="https://laopangshu.top/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>建站及美化遇到的一些问题</title>
+    <link href="https://laopangshu.top/posts/2525007f.html"/>
+    <id>https://laopangshu.top/posts/2525007f.html</id>
+    <published>2023-01-12T03:43:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;问题一&quot;&gt;&lt;a href=&quot;#问题一&quot; class=&quot;headerlink&quot; title=&quot;问题一&quot;&gt;&lt;/a&gt;问题一&lt;/h1&gt;&lt;h2 id=&quot;live2d-安装问题&quot;&gt;&lt;a href=&quot;#live2d-安装问题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博主的一个仿真动画</title>
+    <link href="https://laopangshu.top/posts/f38f6ea3.html"/>
+    <id>https://laopangshu.top/posts/f38f6ea3.html</id>
+    <published>2023-01-12T02:36:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;偏心柱塞泵的仿真动画&quot;&gt;&lt;a href=&quot;#偏心柱塞泵的仿真动画&quot; class=&quot;headerlink&quot; title=&quot;偏心柱塞泵的仿真动画&quot;&gt;&lt;/a&gt;偏心柱塞泵的仿真动画&lt;/h1&gt;&lt;div style=&quot;position: relative; width:</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://laopangshu.top/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="https://laopangshu.top/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="仿真" scheme="https://laopangshu.top/tags/%E4%BB%BF%E7%9C%9F/"/>
+    
+    <category term="solidworks" scheme="https://laopangshu.top/tags/solidworks/"/>
+    
+    <category term="毕业设计" scheme="https://laopangshu.top/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网易云文案摘抄</title>
+    <link href="https://laopangshu.top/posts/fe45eb92.html"/>
+    <id>https://laopangshu.top/posts/fe45eb92.html</id>
+    <published>2023-01-12T02:02:00.000Z</published>
+    <updated>2023-02-17T16:18:14.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt; 今天的事 今天翻篇，&lt;/p&gt;
+&lt;p&gt; 明天还要忙着可爱&lt;/p&gt;
+&lt;p&gt; ——《晴天》&lt;/p&gt;
+&lt;p&gt;我偷偷地碰了你一下，&lt;/p&gt;
+&lt;p&gt; 不料你像蒲公英一样散开，&lt;/p&gt;
+&lt;p&gt; 此后到处都是你的模样。&lt;/p&gt;
+&lt;p&gt; ——《答案》&lt;/p&gt;
+&lt;p&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://laopangshu.top/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://laopangshu.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="emo" scheme="https://laopangshu.top/tags/emo/"/>
+    
+  </entry>
+  
+</feed>
