@@ -6,7 +6,7 @@
   <link href="https://laopangshu.top/atom.xml" rel="self"/>
   
   <link href="https://laopangshu.top/"/>
-  <updated>2023-02-18T11:50:58.062Z</updated>
+  <updated>2023-02-18T12:03:38.630Z</updated>
   <id>https://laopangshu.top/</id>
   
   <author>
@@ -17,24 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://laopangshu.top/posts/d87f7e0c.html"/>
-    <id>https://laopangshu.top/posts/d87f7e0c.html</id>
-    <published>2023-02-18T19:49:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <title>Github action自动部署实现</title>
+    <link href="https://laopangshu.top/posts/b060b73d.html"/>
+    <id>https://laopangshu.top/posts/b060b73d.html</id>
+    <published>2023-02-18T19:53:00.000Z</published>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;测&quot;&gt;&lt;a href=&quot;#测&quot; class=&quot;headerlink&quot; title=&quot;测&quot;&gt;&lt;/a&gt;测&lt;/h1&gt;&lt;p&gt;就覅的封建时代&lt;/p&gt;
-&lt;h1 id=&quot;试验&quot;&gt;&lt;a href=&quot;#试验&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;实现&quot;&gt;&lt;a href=&quot;#实现&quot; class=&quot;headerlink&quot; title=&quot;实现&quot;&gt;&lt;/a&gt;实现&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://anzhiy.cn/posts/b228.html&quot;&gt;参考安知鱼&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
         
       
     
     
     
+    <category term="hexo" scheme="https://laopangshu.top/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://laopangshu.top/tags/hexo/"/>
     
   </entry>
   
@@ -43,7 +47,7 @@
     <link href="https://laopangshu.top/posts/13b9c108.html"/>
     <id>https://laopangshu.top/posts/13b9c108.html</id>
     <published>2023-02-15T00:12:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -68,7 +72,7 @@
     <link href="https://laopangshu.top/posts/29af7751.html"/>
     <id>https://laopangshu.top/posts/29af7751.html</id>
     <published>2023-02-14T00:44:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -93,7 +97,7 @@
     <link href="https://laopangshu.top/posts/d22dd70.html"/>
     <id>https://laopangshu.top/posts/d22dd70.html</id>
     <published>2023-02-12T01:56:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
     <summary type="html">welcome to my blog, enter password to read.</summary>
@@ -114,7 +118,7 @@
     <link href="https://laopangshu.top/posts/697acc66.html"/>
     <id>https://laopangshu.top/posts/697acc66.html</id>
     <published>2023-02-10T21:35:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -141,7 +145,7 @@
     <link href="https://laopangshu.top/posts/3d4cdbe3.html"/>
     <id>https://laopangshu.top/posts/3d4cdbe3.html</id>
     <published>2023-02-07T18:55:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -169,7 +173,7 @@
     <link href="https://laopangshu.top/posts/5b3097af.html"/>
     <id>https://laopangshu.top/posts/5b3097af.html</id>
     <published>2023-01-25T21:42:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -195,7 +199,7 @@
     <link href="https://laopangshu.top/posts/5e39080e.html"/>
     <id>https://laopangshu.top/posts/5e39080e.html</id>
     <published>2023-01-24T17:19:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
     <summary type="html">welcome to my blog, enter password to read.</summary>
@@ -214,7 +218,7 @@
     <link href="https://laopangshu.top/posts/441d9bf9.html"/>
     <id>https://laopangshu.top/posts/441d9bf9.html</id>
     <published>2023-01-22T22:11:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
     <summary type="html">welcome to my blog, enter password to read.</summary>
@@ -235,7 +239,7 @@
     <link href="https://laopangshu.top/posts/5f55ec9b.html"/>
     <id>https://laopangshu.top/posts/5f55ec9b.html</id>
     <published>2023-01-18T02:22:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -262,7 +266,7 @@
     <link href="https://laopangshu.top/posts/117bed89.html"/>
     <id>https://laopangshu.top/posts/117bed89.html</id>
     <published>2023-01-15T07:40:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -287,7 +291,7 @@
     <link href="https://laopangshu.top/posts/a0940415.html"/>
     <id>https://laopangshu.top/posts/a0940415.html</id>
     <published>2023-01-15T07:01:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -312,7 +316,7 @@
     <link href="https://laopangshu.top/posts/6c7dcc2e.html"/>
     <id>https://laopangshu.top/posts/6c7dcc2e.html</id>
     <published>2023-01-13T17:28:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -337,7 +341,7 @@
     <link href="https://laopangshu.top/posts/1b9582ef.html"/>
     <id>https://laopangshu.top/posts/1b9582ef.html</id>
     <published>2023-01-13T15:33:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -362,7 +366,7 @@
     <link href="https://laopangshu.top/posts/81f775d5.html"/>
     <id>https://laopangshu.top/posts/81f775d5.html</id>
     <published>2023-01-13T00:16:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -387,7 +391,7 @@
     <link href="https://laopangshu.top/posts/2525007f.html"/>
     <id>https://laopangshu.top/posts/2525007f.html</id>
     <published>2023-01-12T03:43:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -412,7 +416,7 @@
     <link href="https://laopangshu.top/posts/f38f6ea3.html"/>
     <id>https://laopangshu.top/posts/f38f6ea3.html</id>
     <published>2023-01-12T02:36:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
@@ -443,7 +447,7 @@
     <link href="https://laopangshu.top/posts/fe45eb92.html"/>
     <id>https://laopangshu.top/posts/fe45eb92.html</id>
     <published>2023-01-12T02:02:00.000Z</published>
-    <updated>2023-02-18T11:50:58.062Z</updated>
+    <updated>2023-02-18T12:03:38.630Z</updated>
     
     
       
