@@ -89,3 +89,12 @@
     border-radius: 5px;
   }
   
+
+  /* 头图黑色遮罩层透明 */
+#page-header::before{
+  background: transparent!important;
+}
+/*post页透明一图流*/
+#page-header.post-bg:before {
+  background-color: rgba(0,0,0,0.0);
+}
